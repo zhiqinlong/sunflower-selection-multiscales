@@ -1,0 +1,1427 @@
+Population.ID,name,Taxon,Elevation..m.,Latitude,Longitude,ind_ID
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0807
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0808
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0809
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0810
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0802
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0803
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0804
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0801
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0806
+ANN_01,ann_CA,Helianthus annuus,6,38.56535,-121.63765,ANN0805
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0812
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0813
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0811
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0820
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0816
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0817
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0814
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0815
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0818
+ANN_02,ann_CA,Helianthus annuus,295,36.59499,-120.75822,ANN0819
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0821
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0822
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0825
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0826
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0823
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0824
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0828
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0829
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0830
+ANN_03,ann_CA,Helianthus annuus,295,36.24542,-120.31654,ANN0827
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0834
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0835
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0836
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0837
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0838
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0839
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0840
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0831-
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0832
+ANN_04,ann_CA,Helianthus annuus,1560,34.75087,-119.07235,ANN0833
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0847
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0848
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0849
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0850
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0842
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0843
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0844
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0841
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0846
+ANN_05,ann_CA,Helianthus annuus,-14,33.69278,-116.18411,ANN0845
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0852
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0853
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0851
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0860
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0856
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0857
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0854
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0855
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0858
+ANN_06,ann_CA,Helianthus annuus,738,34.24976,-117.45148,ANN0859
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0865
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0866
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0869
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0870
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0867
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0868
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0864
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0863
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0861
+ANN_07,ann_eastSN,Helianthus annuus,2330,38.7892,-119.9363,ANN0862
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0878
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0877
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0873
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0879
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0880
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0872
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0876
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0871
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0875
+ANN_08,ann_eastSN,Helianthus annuus,1710,38.67722,-119.73895,ANN0874
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0883
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0882
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0886
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0881
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0890
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0889
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0884
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0885
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0887
+ANN_09,ann_eastSN,Helianthus annuus,1270,37.43321,-118.40646,ANN0888
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0893
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0892
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0897
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0896
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0900
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0894
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0895
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0891
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0898
+ANN_10,ann_eastSN,Helianthus annuus,1205,37.17346,-118.27904,ANN0899
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0908
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0909
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0906
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0907
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0910
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0904
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0901
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0902
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0903
+ANN_11,ann_AZ,Helianthus annuus,1030,35.19566,-114.06666,ANN0905
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0911
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0913
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0916
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0914
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0912
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0920
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0917
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0918
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0915
+ANN_12,ann_AZ,Helianthus annuus,2115,35.2533,-112.13355,ANN0919
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0923
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0927
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0924
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0925
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0922
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0929
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0930
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0926
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0921
+ANN_13,ann_AZ,Helianthus annuus,1005,34.75056,-112.01697,ANN0928
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0935
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0936
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0937
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0939
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0940
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0931
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0938
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0934
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0932
+ANN_14,ann_aroundCP,Helianthus annuus,1410,36.1086,-111.24184,ANN0933
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0949
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0950
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0946
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0947
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0948
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0944
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0941
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0942
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0943
+ANN_15,ann_aroundCP,Helianthus annuus,1515,35.03852,-110.7351,ANN0945
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0955
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0957
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0954
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0953
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0956
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0951
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0952
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0959
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0960
+ANN_16,ann_aroundCP,Helianthus annuus,2180,35.40041,-108.23557,ANN0958
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0967
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0965
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0966
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0961
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0968
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0969
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0964
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0962
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0963
+ANN_17,ann_aroundCP,Helianthus annuus,2425,35.24503,-107.68594,ANN0970
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0978
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0971
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0979
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0980
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0977
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0972
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0973
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0974
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0975
+ANN_18,ann_aroundCP,Helianthus annuus,1810,36.07308,-104.28873,ANN0976
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0982
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0983
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0981
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0989
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0986
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0987
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0988
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0985
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0990
+ANN_19,ann_aroundCP,Helianthus annuus,2090,36.7268,-104.01913,ANN0984
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN0995
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN0993
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN0994
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN0998
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN0996
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN0997
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN0992
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN0991
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN0999
+ANN_20,ann_aroundCP,Helianthus annuus,2390,38.44366,-107.62928,ANN1000
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1009
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1006
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1007
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1008
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1001
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1002
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1005
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1004
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1010
+ANN_21,ann_aroundCP,Helianthus annuus,1525,38.91004,-108.3738,ANN1003
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1012
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1016
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1011
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1018
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1019
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1017
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1014
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1015
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1013
+ANN_22,ann_aroundCP,Helianthus annuus,1460,39.00672,-108.46384,ANN1020
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1038
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1039
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1040
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1036
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1037
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1033
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1034
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1035
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1031
+ANN_24,ann_eastSN,Helianthus annuus,1540,39.48892,-119.99511,ANN1032
+ANN_25,ann_AZ,Helianthus annuus,480,36.79654,-114.09841,ANN1042
+ANN_25,ann_AZ,Helianthus annuus,480,36.79654,-114.09841,ANN1047
+ANN_25,ann_AZ,Helianthus annuus,480,36.79654,-114.09841,ANN1041
+ANN_25,ann_AZ,Helianthus annuus,480,36.79654,-114.09841,ANN1049
+ANN_25,ann_AZ,Helianthus annuus,480,36.79654,-114.09841,ANN1043
+ANN_25,ann_AZ,Helianthus annuus,480,36.79654,-114.09841,ANN1044
+ANN_25,ann_AZ,Helianthus annuus,480,36.79654,-114.09841,ANN1045
+ANN_25,ann_AZ,Helianthus annuus,480,36.79654,-114.09841,ANN1048
+ANN_25,ann_AZ,Helianthus annuus,480,36.79654,-114.09841,ANN1050
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1055
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1056
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1059
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1060
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1057
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1058
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1054
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1053
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1052
+ANN_26,ann_AZ,Helianthus annuus,875,37.13733,-113.51348,ANN1051
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1068
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1069
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1067
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1062
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1063
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1061
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1066
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1070
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1065
+ANN_27,ann_AZ,Helianthus annuus,1660,37.13137,-112.56561,ANN1064
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1077
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1076
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1072
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1073
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1071
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1078
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1079
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1075
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1080
+ANN_28,ann_aroundCP,Helianthus annuus,1840,38.21652,-112.64767,ANN1074
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1089
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1090
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1088
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1083
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1084
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1085
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1086
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1087
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1081
+ANN_29,ann_aroundCP,Helianthus annuus,1465,39.55006,-112.35661,ANN1082
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1098
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1099
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1091
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1092
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1100
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1094
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1095
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1096
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1097
+ANN_30,ann_aroundCP,Helianthus annuus,1590,39.7148,-112.20662,ANN1093
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1103
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1104
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1105
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1101
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1102
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1106
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1107
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1108
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1109
+ANN_31,ann_aroundCP,Helianthus annuus,1380,40.1781,-111.65071,ANN1110
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1117
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1112
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1113
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1115
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1116
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1111
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1119
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1114
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1118
+ANN_32,ann_aroundCP,Helianthus annuus,1295,41.48524,-112.0556,ANN1120
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1129
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1124
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1126
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1130
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1128
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1125
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1121
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1127
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1123
+ANN_33,ann_aroundCP,Helianthus annuus,1295,40.77115,-112.15004,ANN1122
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1139
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1140
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1131
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1133
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1134
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1135
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1132
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1137
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1138
+ANN_34,ann_aroundCP,Helianthus annuus,1295,40.69149,-112.26423,ANN1136
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1141
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1144
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1145
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1148
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1142
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1143
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1147
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1149
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1146
+ANN_35,ann_aroundCP,Helianthus annuus,1670,40.51274,-109.51947,ANN1150
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1160
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1159
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1155
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1156
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1158
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1154
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1157
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1153
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1152
+ANN_36,ann_northGP,Helianthus annuus,2040,41.77426,-107.45885,ANN1151
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1167
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1162
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1168
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1170
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1166
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1163
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1169
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1161
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1165
+ANN_37,ann_northGP,Helianthus annuus,1550,40.48679,-105.09619000000001,ANN1164
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1180
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1176
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1173
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1175
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1172
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1171
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1179
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1174
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1178
+ANN_38,ann_northGP,Helianthus annuus,555,38.44118,-98.63231,ANN1177
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1188
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1183
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1184
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1182
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1181
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1187
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1190
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1185
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1186
+ANN_39,ann_northGP,Helianthus annuus,445,37.45911,-97.9179,ANN1189
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1200
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1199
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1191
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1196
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1198
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1194
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1195
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1197
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1193
+ANN_40,ann_northGP,Helianthus annuus,555,37.23327,-98.66459,ANN1192
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1202
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1208
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1209
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1210
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1206
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1203
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1204
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1201
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1205
+ANN_41,ann_northGP,Helianthus annuus,355,36.80874,-98.22242,ANN1207
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1211
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1219
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1220
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1212
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1218
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1214
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1216
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1213
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1215
+ANN_42,ann_TX,Helianthus annuus,235,32.92224,-97.36547,ANN1217
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1227
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1226
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1223
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1225
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1228
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1224
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1222
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1230
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1221
+ANN_43,ann_TX,Helianthus annuus subsp. texanus,145,29.73315,-97.65574,ANN1229
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1237
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1236
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1231
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1238
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1239
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1240
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1235
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1233
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1234
+ANN_44,ann_TX,Helianthus annuus subsp. texanus,215,29.05186,-99.01808,ANN1232
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1242
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1241
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1245
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1243
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1244
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1250
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1248
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1249
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1247
+ANN_45,ann_TX,Helianthus annuus subsp. texanus,210,28.63085,-100.1189,ANN1246
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1252
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1256
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1253
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1251
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1259
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1260
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1254
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1255
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1257
+ANN_46,ann_CA,Helianthus annuus,690,33.92321,-116.86432,ANN1258
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1268
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1269
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1267
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1263
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1270
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1261
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1262
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1264
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1265
+ANN_47,ann_AZ,Helianthus annuus,475,32.73158,-111.53769,ANN1266
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1273
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1280
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1276
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1271
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1272
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1275
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1277
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1274
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1279
+ANN_48,ann_AZ,Helianthus annuus,1030,31.5081,-111.01274,ANN1278
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1287
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1290
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1288
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1286
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1283
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1284
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1289
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1282
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1281
+ANN_49,ann_AZ,Helianthus annuus,1275,31.43996,-110.10544,ANN1285
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1296
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1295
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1294
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1299
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1291
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1292
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1293
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1300
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1297
+ANN_50,ann_aroundCP,Helianthus annuus,1370,32.17943,-108.38541,ANN1298
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1310
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1309
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1304
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1301
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1302
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1303
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1308
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1305
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1306
+ANN_51,ann_aroundCP,Helianthus annuus,1170,32.12876,-106.67373,ANN1307
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1311
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1314
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1315
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1312
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1313
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1318
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1319
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1316
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1317
+ANN_52,ann_TX,Helianthus annuus,1140,31.13312,-104.02012,ANN1320
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1324
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1325
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1321
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1322
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1323
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1329
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1326
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1327
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1328
+ANN_53,ann_TX,Helianthus annuus,880,31.03955,-103.13683,ANN1330
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1338
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1331
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1332
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1333
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1334
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1335
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1336
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1337
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1339
+ANN_54,ann_TX,Helianthus annuus subsp. texanus,90,29.11355,-97.39837,ANN1340
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1342
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1341
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1346
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1343
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1344
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1345
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1350
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1347
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1348
+ANN_55,ann_TX,Helianthus annuus subsp. texanus,0,28.66061,-96.58348,ANN1349
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1361
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1364
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1365
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1362
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1363
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1368
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1369
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1366
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1367
+ANN_57,ann_TX,Helianthus annuus subsp. texanus,0,27.63854,-97.24526,ANN1370
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1374
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1375
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1371
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1372
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1373
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1379
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1376
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1377
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1378
+ANN_58,ann_TX,Helianthus annuus subsp. texanus,35,28.24166,-97.67443,ANN1380
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1388
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1381
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1382
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1383
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1384
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1385
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1386
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1387
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1389
+ANN_59,ann_TX,Helianthus annuus subsp. texanus,12,26.50251,-97.77181,ANN1390
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1392
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1391
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1396
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1393
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1394
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1395
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1400
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1397
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1398
+ANN_60,ann_TX,Helianthus annuus subsp. texanus,0,27.28522,-97.66729,ANN1399
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1401
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1403
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1404
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1405
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1402
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1407
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1408
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1409
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1406
+ANN_61,ann_TX,Helianthus annuus subsp. texanus,20,27.77652,-97.66801,ANN1410
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,HT247_IA1W-33
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,HT269_IA1W-5
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,HT270_IA1W_11R
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,HT271_IA1W-15
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,HT272_IA1W-39
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,HT317_IA1W-4
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,Q021B_IA1W-2
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,Q075_IA1W-1
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,Q076_IA1W-11
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,Q077_IA1W-21
+ANN_62,ann_northGP,Helianthus annuus,329,42.24842,-96.05867,Q33_IA1W-28
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,HT014_IA2W-16
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,HT033N_IA2W-38
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,HT103_IA2W-39
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,HT149_IA2W-29
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,HT011_IA2W-37
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,HT24_IA2W-14
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,HT365_IA2W-11
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,HT55_IA2W-17
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,HT56_IA2W-37
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,QPB3_IA2W-7
+ANN_63,ann_northGP,Helianthus annuus,290,41.04647,-95.82286,QPC2_IA2W-6
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,Q036B_KS1W-19
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,Q041_KS1W-24
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,HT277_KS1W-40
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,HT345_KS1W-2
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,HT254_KS1W-27
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,HT255_KS1W-29
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,HT274_KS1W-3
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,QPF4_KS1W-9
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,Q042_KS1W-35
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,QPD2_KS1W-32
+ANN_64,ann_northGP,Helianthus annuus,550,39.68894,-99.06605,QPE2_KS1W-26
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,HT228_KS2W-12
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,HT259_KS2E-6
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,Q017B_KS2W-6_1R
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,Q046_KS2W-24
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,Q052B-KS2W-15
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,ANN1419
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,ANN1420
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,ANN1439
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,HT104_KS2W-15R
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,HT227_KS2W-9
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,Q083_KS2W-14
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,Q084_KS2W-32
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,QPA2_KS2W-8
+ANN_65,ann_northGP,Helianthus annuus,709,39.82806,-99.9072,QPG4_KS2W-35
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,HT300_MB1W16
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,HT301_MB1W_16B
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,HT60_MB1W-30
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,HT61_MB1W-31
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,HT125_MB1W-20
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,HT231_MB1W-8
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,HT232_MB1W-11
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,HT233_MB1W-14
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,HT234_MB1W-39
+ANN_66,ann_northGP,Helianthus annuus,505,49.29649,-100.40875,Q086_MB1W-40
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT68_MO1W-7
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT141_MO1W-11
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT142_MO1W-15
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT352_MO1W-33
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT140_MO1W-2R
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT211_MO1W-39
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT236_MO1W-2
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT164_MO1W-3
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT165_MO1W-16
+ANN_67,ann_northGP,Helianthus annuus,324,40.07698,-94.86874,HT237_MO1W-38
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,HT213_ND1W-20
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,HT305_ND1W-27
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,HT5_ND1W-22
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,HT330_ND1W-6
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,HT44_ND1W-12
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,HT45_ND1W-36
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,Q166B_ND1W-25
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,HT93_ND1W-33
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,Q094_ND1W-38
+ANN_68,ann_northGP,Helianthus annuus,525,47.24255,-101.04321,Q144C_ND1W-31
+ANN_69,ann_northGP,Helianthus annuus,549,44.50105,-100.0715,HT360_SD1W-35
+ANN_69,ann_northGP,Helianthus annuus,549,44.50105,-100.0715,HT373_SD1W-4
+ANN_69,ann_northGP,Helianthus annuus,549,44.50105,-100.0715,HT6_SD1W-21
+ANN_69,ann_northGP,Helianthus annuus,549,44.50105,-100.0715,Q097_SD1W-6
+ANN_69,ann_northGP,Helianthus annuus,549,44.50105,-100.0715,Q098_SD1W-14
+ANN_69,ann_northGP,Helianthus annuus,549,44.50105,-100.0715,HT290_SD1W-20
+ANN_69,ann_northGP,Helianthus annuus,549,44.50105,-100.0715,Q099_SD1W-21B
+ANN_69,ann_northGP,Helianthus annuus,549,44.50105,-100.0715,QPG1_SD1W-15
+ANN_69,ann_northGP,Helianthus annuus,549,44.50105,-100.0715,QPH4_SD1W-13
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT51_SD2W-40
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT218_SD2W-30
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT219_SD2W-38
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT308_SD2W-27
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT013_SD2W-18
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT118_SD2W-19
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT146_SD2W-5
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT170_SD2W-14
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT194_SD2W-15
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,HT217_SD2W-21
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,Q076C_SD2W-23
+ANN_70,ann_northGP,Helianthus annuus,381,42.8228,-96.78587,Q100_SD2W-23R
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,HT379_SK1W-22R
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,QPC1_SK1W-37
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,HT311_SK1W-29R
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,HT378_SK1W-22
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,ANN1501
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,HT100_SK1W-29
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,HT124_SK1W-36
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,HT172_SK1W-Q
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,HT196_SK1W-1
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,HT220_SK1W-15
+ANN_71,ann_northGP,Helianthus annuus,585,49.23184,-102.9884,HT242_SK1W-25
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0003
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0004
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0005
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0006
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0007
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0008
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0009
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0010
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0001
+ARG_01,arg_northTX,Helianthus argophyllus,133,29.6465,-97.69094,ARG0002
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0011
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0014
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0015
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0012
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0013
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0018
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0019
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0020
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0016
+ARG_02,arg_northTX,Helianthus argophyllus,125,29.43897,-97.73836,ARG0017
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0023
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0024
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0021
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0022
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0027
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0028
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0025
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0026
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0030
+ARG_03,arg_northTX,Helianthus argophyllus,105,29.31939,-97.7441,ARG0029
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0032
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0033
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0031
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0036
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0037
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0034
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0035
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0040
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0038
+ARG_04,arg_northTX,Helianthus argophyllus,140,29.60147,-97.70881,ARG0039
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0041
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0044N
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0045
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0046
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0047
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0048N
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0049
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0050
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0042
+ARG_05,arg_northTX,Helianthus argophyllus,104,29.45132,-97.6954,ARG0043
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0051
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0054
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0055
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0052
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0053
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0058
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0059
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0060
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0056
+ARG_06,arg_northTX,Helianthus argophyllus,100,29.27191,-97.66967,ARG0057
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0063
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0064
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0061
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0062N
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0067
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0068
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0065
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0066
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0070
+ARG_07,arg_northTX,Helianthus argophyllus,50,28.70013,-97.38772,ARG0069
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0072
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0073
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0071
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0076
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0077
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0074
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0075
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0080
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0078
+ARG_08,arg_northTX,Helianthus argophyllus,20,28.73672,-97.03155,ARG0079
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0082
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0081
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0086
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0083
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0084
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0085
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0090
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0087N
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0088
+ARG_09,arg_coastTX,Helianthus argophyllus,4,28.18143,-96.9948,ARG0089
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0091
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0095
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0092
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0093
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0094
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0099
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0096
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0097
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0098
+ARG_10,arg_coastTX,Helianthus argophyllus,7,28.10813,-97.02884,ARG0100
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0104
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0101
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0102
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0103
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0108
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0105
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0106
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0107
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0109
+ARG_11,arg_coastTX,Helianthus argophyllus,0,27.99705,-97.07636,ARG0110
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0118
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0111
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0112
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0113
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0114
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0115
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0116
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0117
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0119
+ARG_12,arg_coastTX,Helianthus argophyllus,0,27.93269,-97.12295,ARG0120
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0122
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0121
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0126
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0123
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0124
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0125
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0130
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0127
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0128
+ARG_13,arg_coastTX,Helianthus argophyllus,6,27.83272,-97.04939,ARG0129
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0131
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0135
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0132
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0133
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0134N
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0139
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0136N
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0137
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0138
+ARG_14,arg_coastTX,Helianthus argophyllus,7,27.8469,-97.04873,ARG0140
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0144
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0141
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0142
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0143
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0148
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0145
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0146
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0147
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0149
+ARG_15,arg_coastTX,Helianthus argophyllus,0,27.83481,-97.08834,ARG0150
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0159
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0151
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0152
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0153
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0154
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0155
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0156
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0157
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0158
+ARG_16,arg_coastTX,Helianthus argophyllus,0,27.68602,-97.17672,ARG0160
+ARG_17,arg_coastTX,Helianthus argophyllus,3,27.61823,-97.21178,ARG0161
+ARG_17,arg_coastTX,Helianthus argophyllus,3,27.61823,-97.21178,ARG0162
+ARG_17,arg_coastTX,Helianthus argophyllus,3,27.61823,-97.21178,ARG0163
+ARG_17,arg_coastTX,Helianthus argophyllus,3,27.61823,-97.21178,ARG0164
+ARG_17,arg_coastTX,Helianthus argophyllus,3,27.61823,-97.21178,ARG0166
+ARG_17,arg_coastTX,Helianthus argophyllus,3,27.61823,-97.21178,ARG0167
+ARG_17,arg_coastTX,Helianthus argophyllus,3,27.61823,-97.21178,ARG0168
+ARG_17,arg_coastTX,Helianthus argophyllus,3,27.61823,-97.21178,ARG0169
+ARG_17,arg_coastTX,Helianthus argophyllus,3,27.61823,-97.21178,ARG0170
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0171
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0172
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0173
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0174
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0175
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0176
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0177
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0178
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0179
+ARG_18,arg_coastTX,Helianthus argophyllus,3,27.47822,-97.28085,ARG0180
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0181
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0182
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0183
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0184
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0185
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0186
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0187
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0188
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0189
+ARG_19,arg_coastTX,Helianthus argophyllus,0,27.57942,-97.2215,ARG0190
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0191
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0192
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0193N
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0194
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0195
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0196
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0197
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0198
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0199
+ARG_20,arg_coastTX,Helianthus argophyllus,4,27.6611,-97.31138,ARG0200
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0201
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0202
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0203
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0204
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0205
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0206
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0207
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0208
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0209
+ARG_21,arg_northTX,Helianthus argophyllus,8,28.12154,-97.39245,ARG0210
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0211
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0212
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0213
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0214
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0215
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0216
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0217
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0218
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0219
+ARG_22,arg_northTX,Helianthus argophyllus,13,28.27849,-97.29757,ARG0220
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0221
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0222
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0223
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0224
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0225N
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0226N
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0227
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0228
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0229
+ARG_23,arg_southTX,Helianthus argophyllus,35,26.8902,-98.13698,ARG0230N
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0231
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0232
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0233
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0234
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0235
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0236
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0237
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0238
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0239
+ARG_24,arg_southTX,Helianthus argophyllus,11,26.92402,-97.79218,ARG0240
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0241
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0242
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0243
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0244
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0245
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0246
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0247
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0248
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0249
+ARG_25,arg_southTX,Helianthus argophyllus,5,27.15959,-97.79411,ARG0250
+ARG_26,arg_southTX,Helianthus argophyllus,0,27.27342,-97.80311,ARG0251
+ARG_26,arg_southTX,Helianthus argophyllus,0,27.27342,-97.80311,ARG0252
+ARG_26,arg_southTX,Helianthus argophyllus,0,27.27342,-97.80311,ARG0253
+ARG_26,arg_southTX,Helianthus argophyllus,0,27.27342,-97.80311,ARG0254
+ARG_26,arg_southTX,Helianthus argophyllus,0,27.27342,-97.80311,ARG0255
+ARG_26,arg_southTX,Helianthus argophyllus,0,27.27342,-97.80311,ARG0256
+ARG_26,arg_southTX,Helianthus argophyllus,0,27.27342,-97.80311,ARG0257
+ARG_26,arg_southTX,Helianthus argophyllus,0,27.27342,-97.80311,ARG0259
+ARG_26,arg_southTX,Helianthus argophyllus,0,27.27342,-97.80311,ARG0260
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0261
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0262
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0263
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0264
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0265
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0266N
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0267N
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0268
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0269
+ARG_27,arg_southTX,Helianthus argophyllus,35,27.14245,-98.14997,ARG0270
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0271
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0272
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0273
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0274
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0275
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0276
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0277N
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0278N
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0279
+ARG_28,arg_southTX,Helianthus argophyllus,40,27.00215,-98.13579,ARG0280
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0281
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0282
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0283
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0284
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0285
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0286
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0287
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0288
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0289
+ARG_29,arg_southTX,Helianthus argophyllus,35,27.10014,-98.14704,ARG0290
+ARG_30,arg_southTX,Helianthus argophyllus,30,27.25741,-97.94589,ARG0291
+ARG_30,arg_southTX,Helianthus argophyllus,30,27.25741,-97.94589,ARG0292
+ARG_30,arg_southTX,Helianthus argophyllus,30,27.25741,-97.94589,ARG0293
+ARG_30,arg_southTX,Helianthus argophyllus,30,27.25741,-97.94589,ARG0294
+ARG_30,arg_southTX,Helianthus argophyllus,30,27.25741,-97.94589,ARG0295
+ARG_30,arg_southTX,Helianthus argophyllus,30,27.25741,-97.94589,ARG0296
+ARG_30,arg_southTX,Helianthus argophyllus,30,27.25741,-97.94589,ARG0297
+ARG_30,arg_southTX,Helianthus argophyllus,30,27.25741,-97.94589,ARG0298N
+ARG_30,arg_southTX,Helianthus argophyllus,30,27.25741,-97.94589,ARG0299
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0303
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0304
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0301
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0302
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0307
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0308
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0305
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0306
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0309N
+PET_01,fal_northAZ,Helianthus petiolaris subsp. fallax,2140,35.1371,-111.64211,PET0310
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0312
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0313
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0311
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0316
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0317
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0314
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0315
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0320
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0318
+PET_02,fal_northAZ,Helianthus petiolaris subsp. fallax,1445,34.91703,-111.90977,PET0319
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0326
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0325
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0321
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0322
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0323
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0324
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0329
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0330
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0327
+PET_03,fal_northAZ,Helianthus petiolaris subsp. fallax,2075,35.33119,-111.54146,PET0328
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0339
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0340
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0331
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0332
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0333
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0334
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0335
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0336
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0337
+PET_04,fal_northAZ,Helianthus petiolaris subsp. fallax,2166,35.39031,-111.57754,PET0338
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0343
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0344
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0341
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0342
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0347
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0348
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0345
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0346
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0349
+PET_05,fal_northAZ,Helianthus petiolaris subsp. fallax,1755,35.15387,-109.50207,PET0350
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0378
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0379
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0377
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0372
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0373
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0380
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0371
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0376
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0374
+PET_08,fal_CO,Helianthus petiolaris subsp. fallax,2545,37.52901,-105.297,PET0375
+PET_09,fal_CO,Helianthus petiolaris subsp. fallax,2325,37.66278,-105.64088,PET0383
+PET_09,fal_CO,Helianthus petiolaris subsp. fallax,2325,37.66278,-105.64088,PET0382
+PET_09,fal_CO,Helianthus petiolaris subsp. fallax,2325,37.66278,-105.64088,PET0386
+PET_09,fal_CO,Helianthus petiolaris subsp. fallax,2325,37.66278,-105.64088,PET0384
+PET_09,fal_CO,Helianthus petiolaris subsp. fallax,2325,37.66278,-105.64088,PET0381
+PET_09,fal_CO,Helianthus petiolaris subsp. fallax,2325,37.66278,-105.64088,PET0385
+PET_09,fal_CO,Helianthus petiolaris subsp. fallax,2325,37.66278,-105.64088,PET0387
+PET_09,fal_CO,Helianthus petiolaris subsp. fallax,2325,37.66278,-105.64088,PET0388
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0394
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0393
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0397
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0398
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0395
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0396
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0392N
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0399
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0391N
+PET_10,fal_CO,Helianthus petiolaris subsp. fallax,2460,38.47747,-106.08848,PET0400
+PET_11,fal_CO,Helianthus petiolaris subsp. fallax,2295,38.48952,-107.03795,PET0410
+PET_11,fal_CO,Helianthus petiolaris subsp. fallax,2295,38.48952,-107.03795,PET0406
+PET_11,fal_CO,Helianthus petiolaris subsp. fallax,2295,38.48952,-107.03795,PET0407
+PET_11,fal_CO,Helianthus petiolaris subsp. fallax,2295,38.48952,-107.03795,PET0403
+PET_11,fal_CO,Helianthus petiolaris subsp. fallax,2295,38.48952,-107.03795,PET0409
+PET_11,fal_CO,Helianthus petiolaris subsp. fallax,2295,38.48952,-107.03795,PET0401
+PET_11,fal_CO,Helianthus petiolaris subsp. fallax,2295,38.48952,-107.03795,PET0402
+PET_11,fal_CO,Helianthus petiolaris subsp. fallax,2295,38.48952,-107.03795,PET0404
+PET_11,fal_CO,Helianthus petiolaris subsp. fallax,2295,38.48952,-107.03795,PET0405
+PET_12,fal_northAZ,Helianthus petiolaris subsp. fallax,1570,36.90004,-112.91885,PET0414
+PET_12,fal_northAZ,Helianthus petiolaris subsp. fallax,1570,36.90004,-112.91885,PET0417
+PET_12,fal_northAZ,Helianthus petiolaris subsp. fallax,1570,36.90004,-112.91885,PET0418
+PET_12,fal_northAZ,Helianthus petiolaris subsp. fallax,1570,36.90004,-112.91885,PET0415
+PET_12,fal_northAZ,Helianthus petiolaris subsp. fallax,1570,36.90004,-112.91885,PET0416
+PET_12,fal_northAZ,Helianthus petiolaris subsp. fallax,1570,36.90004,-112.91885,PET0412
+PET_12,fal_northAZ,Helianthus petiolaris subsp. fallax,1570,36.90004,-112.91885,PET0413
+PET_12,fal_northAZ,Helianthus petiolaris subsp. fallax,1570,36.90004,-112.91885,PET0419
+PET_12,fal_northAZ,Helianthus petiolaris subsp. fallax,1570,36.90004,-112.91885,PET0420
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0427
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0430
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0422
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0428
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0429
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0421
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0426
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0423
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0424
+PET_13,fal_northAZ,Helianthus petiolaris subsp. fallax,1805,37.23794,-112.85064,PET0425
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0441
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0449
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0450
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0442
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0443
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0444
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0445
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0446
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0447
+PET_15,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,2240,40.69709,-105.61168,PET0448
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0454N
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0451
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0452
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0453N
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0457
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0458
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0455
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0456
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0459N
+PET_16,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1415,40.38047,-104.52282,PET0460N
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0462
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0463
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0468
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0469
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0464
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0465
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0461
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0466
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0467
+PET_17,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1510,40.15158,-104.60307,PET0470
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0471
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0478
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0479
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0480
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0475
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0472
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0473N
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0474N
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0476
+PET_18,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1595,39.9137,-104.61456,PET0477
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0481
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0489
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0490
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0486
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0483
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0482
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0485
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0487
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0484
+PET_19,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,1720,39.63705,-104.33484,PET0488
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0491
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0494
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0495
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0492
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0493
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0498
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0499
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0496
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0497
+PET_20,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,585,38.3336,-98.83812,PET0500
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0503
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0504
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0502
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0508
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0509
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0505
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0501
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0506
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0507
+PET_21,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,570,38.33349,-98.69159,PET0510
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0518
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0519
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0520
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0513
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0514
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0511
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0512
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0517
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0515
+PET_22,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,38.56505,-97.96174,PET0516
+PET_23,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,404,37.676,-97.40646,PET0522
+PET_23,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,404,37.676,-97.40646,PET0524
+PET_23,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,404,37.676,-97.40646,PET0521
+PET_23,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,404,37.676,-97.40646,PET0529
+PET_23,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,404,37.676,-97.40646,PET0526
+PET_23,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,404,37.676,-97.40646,PET0523
+PET_23,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,404,37.676,-97.40646,PET0528
+PET_23,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,404,37.676,-97.40646,PET0530
+PET_23,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,404,37.676,-97.40646,PET0527
+PET_24,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,37.37939,-97.8877,PET0535
+PET_24,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,37.37939,-97.8877,PET0538
+PET_24,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,37.37939,-97.8877,PET0798
+PET_24,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,37.37939,-97.8877,PET0536
+PET_24,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,37.37939,-97.8877,PET0531
+PET_24,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,37.37939,-97.8877,PET0532
+PET_24,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,37.37939,-97.8877,PET0534N
+PET_24,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,37.37939,-97.8877,PET0799
+PET_24,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,37.37939,-97.8877,PET0537
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0546
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0540
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0541N
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0547
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0539
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0544
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0545
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0542N
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0543
+PET_25,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,415,36.83371,-98.6481,PET0548
+PET_26,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,36.56341,-98.88941,PET0552
+PET_26,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,36.56341,-98.88941,PET0556
+PET_26,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,36.56341,-98.88941,PET0553
+PET_26,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,36.56341,-98.88941,PET0550
+PET_26,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,36.56341,-98.88941,PET0549
+PET_26,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,36.56341,-98.88941,PET0557
+PET_26,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,36.56341,-98.88941,PET0554
+PET_26,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,36.56341,-98.88941,PET0555
+PET_26,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,465,36.56341,-98.88941,PET0558
+PET_27,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,470,36.558,-98.89537,PET0562
+PET_27,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,470,36.558,-98.89537,PET0564
+PET_27,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,470,36.558,-98.89537,PET0563
+PET_27,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,470,36.558,-98.89537,PET0559
+PET_27,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,470,36.558,-98.89537,PET0560
+PET_27,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,470,36.558,-98.89537,PET0561
+PET_27,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,470,36.558,-98.89537,PET0565
+PET_27,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,470,36.558,-98.89537,PET0566
+PET_27,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,470,36.558,-98.89537,PET0568
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0574
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0578
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0575
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0576
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0577
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0569N
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0570
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0571
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0572
+PET_28,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,350,36.79928,-98.24968,PET0573
+PET_29,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,480,36.9134,-99.23544,PET0588
+PET_29,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,480,36.9134,-99.23544,PET0579
+PET_29,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,480,36.9134,-99.23544,PET0580
+PET_29,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,480,36.9134,-99.23544,PET0581
+PET_29,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,480,36.9134,-99.23544,PET0582
+PET_29,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,480,36.9134,-99.23544,PET0583
+PET_29,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,480,36.9134,-99.23544,PET0584
+PET_29,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,480,36.9134,-99.23544,PET0586
+PET_29,pet_CO-KS,Helianthus petiolaris subsp. petiolaris,480,36.9134,-99.23544,PET0587
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0614
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0611
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0609
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0610
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0800
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0615
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0612
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0613
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0616
+PET_32,fal_southAZ,Helianthus petiolaris subsp. fallax,1475,31.74298,-110.68913,PET0617
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0620
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0621
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0619
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0618
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0625
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0626
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0622
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0624
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0623
+PET_33,fal_southAZ,Helianthus petiolaris subsp. fallax,1440,31.47593,-110.25758,PET0627
+PET_34,fal_southAZ,Helianthus petiolaris subsp. fallax,1315,31.38092,-110.06893,PET0632
+PET_34,fal_southAZ,Helianthus petiolaris subsp. fallax,1315,31.38092,-110.06893,PET0633
+PET_34,fal_southAZ,Helianthus petiolaris subsp. fallax,1315,31.38092,-110.06893,PET0631
+PET_34,fal_southAZ,Helianthus petiolaris subsp. fallax,1315,31.38092,-110.06893,PET0635
+PET_34,fal_southAZ,Helianthus petiolaris subsp. fallax,1315,31.38092,-110.06893,PET0636
+PET_34,fal_southAZ,Helianthus petiolaris subsp. fallax,1315,31.38092,-110.06893,PET0634
+PET_34,fal_southAZ,Helianthus petiolaris subsp. fallax,1315,31.38092,-110.06893,PET0630
+PET_34,fal_southAZ,Helianthus petiolaris subsp. fallax,1315,31.38092,-110.06893,PET0629
+PET_34,fal_southAZ,Helianthus petiolaris subsp. fallax,1315,31.38092,-110.06893,PET0637
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0646
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0647
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0645
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0644
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0640
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0638
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0639
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0641
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0642
+PET_35,fal_southAZ,Helianthus petiolaris subsp. fallax,1345,31.68887,-109.1337,PET0643
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0649
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0652
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0650
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0656
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0651
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0648
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0655
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0653
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0654
+PET_36,can,Helianthus niveus subsp. canescens,1300,32.19631,-107.68668,PET0657
+PET_37,can,Helianthus niveus subsp. canescens,1250,31.8201,-107.38806,PET0663
+PET_37,can,Helianthus niveus subsp. canescens,1250,31.8201,-107.38806,PET0660
+PET_37,can,Helianthus niveus subsp. canescens,1250,31.8201,-107.38806,PET0662
+PET_37,can,Helianthus niveus subsp. canescens,1250,31.8201,-107.38806,PET0664N
+PET_37,can,Helianthus niveus subsp. canescens,1250,31.8201,-107.38806,PET0665
+PET_37,can,Helianthus niveus subsp. canescens,1250,31.8201,-107.38806,PET0666
+PET_37,can,Helianthus niveus subsp. canescens,1250,31.8201,-107.38806,PET0658
+PET_37,can,Helianthus niveus subsp. canescens,1250,31.8201,-107.38806,PET0659
+PET_37,can,Helianthus niveus subsp. canescens,1250,31.8201,-107.38806,PET0667
+PET_38,can,Helianthus niveus subsp. canescens,1265,31.79005,-107.20421,PET0677
+PET_38,can,Helianthus niveus subsp. canescens,1265,31.79005,-107.20421,PET0676
+PET_38,can,Helianthus niveus subsp. canescens,1265,31.79005,-107.20421,PET0670
+PET_38,can,Helianthus niveus subsp. canescens,1265,31.79005,-107.20421,PET0668
+PET_38,can,Helianthus niveus subsp. canescens,1265,31.79005,-107.20421,PET0669
+PET_38,can,Helianthus niveus subsp. canescens,1265,31.79005,-107.20421,PET0675
+PET_38,can,Helianthus niveus subsp. canescens,1265,31.79005,-107.20421,PET0672
+PET_38,can,Helianthus niveus subsp. canescens,1265,31.79005,-107.20421,PET0673
+PET_38,can,Helianthus niveus subsp. canescens,1265,31.79005,-107.20421,PET0674
+PET_39,can,Helianthus niveus subsp. canescens,1265,31.81152,-106.68289,PET0679
+PET_39,can,Helianthus niveus subsp. canescens,1265,31.81152,-106.68289,PET0678
+PET_39,can,Helianthus niveus subsp. canescens,1265,31.81152,-106.68289,PET0680
+PET_39,can,Helianthus niveus subsp. canescens,1265,31.81152,-106.68289,PET0681
+PET_39,can,Helianthus niveus subsp. canescens,1265,31.81152,-106.68289,PET0682
+PET_39,can,Helianthus niveus subsp. canescens,1265,31.81152,-106.68289,PET0687
+PET_39,can,Helianthus niveus subsp. canescens,1265,31.81152,-106.68289,PET0683
+PET_39,can,Helianthus niveus subsp. canescens,1265,31.81152,-106.68289,PET0684
+PET_39,can,Helianthus niveus subsp. canescens,1265,31.81152,-106.68289,PET0685
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0692
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0693
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0689N
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0690N
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0694
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0688
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0695
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0691
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0697
+PET_40,can,Helianthus niveus subsp. canescens,1200,31.9985,-106.58418,PET0696
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0704
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0703
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0705
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0702
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0707
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0699
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0700
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0706
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0698
+PET_41,can,Helianthus niveus subsp. canescens,1345,32.24206,-107.06309,PET0701
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0716
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0708
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0717
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0711
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0712
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0709
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0710
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0715
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0713
+PET_42,can,Helianthus niveus subsp. canescens,1350,32.26828,-106.95863,PET0714
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0719
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0718
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0725
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0722
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0720
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0721
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0726
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0723
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0724
+PET_43,fal_southAZ,Helianthus petiolaris subsp. fallax,1615,32.42618,-106.54787,PET0727
+PET_44,can,Helianthus niveus subsp. canescens,1070,31.15031,-105.68665,PET0731
+PET_44,can,Helianthus niveus subsp. canescens,1070,31.15031,-105.68665,PET0730
+PET_44,can,Helianthus niveus subsp. canescens,1070,31.15031,-105.68665,PET0732
+PET_44,can,Helianthus niveus subsp. canescens,1070,31.15031,-105.68665,PET0733
+PET_44,can,Helianthus niveus subsp. canescens,1070,31.15031,-105.68665,PET0734
+PET_44,can,Helianthus niveus subsp. canescens,1070,31.15031,-105.68665,PET0728
+PET_44,can,Helianthus niveus subsp. canescens,1070,31.15031,-105.68665,PET0735
+PET_44,can,Helianthus niveus subsp. canescens,1070,31.15031,-105.68665,PET0736N
+PET_44,can,Helianthus niveus subsp. canescens,1070,31.15031,-105.68665,PET0737
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0744
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0746
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0742
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0743
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0747
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0745
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0740
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0741
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0738
+PET_45,can,Helianthus niveus subsp. canescens,1210,31.05622,-104.57134,PET0739
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0751
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0752
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0748
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0749N
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0750
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0754
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0755N
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0756N
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0753
+PET_46,fal_TX,Helianthus petiolaris subsp. fallax,765,31.43995,-102.87508,PET0757
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0763
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0764
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0765
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0758
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0759
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0760
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0761
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0762
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0767
+PET_47,fal_TX,Helianthus petiolaris subsp. fallax,840,31.63659,-102.81704,PET0766
+PET_48,fal_TX,Helianthus petiolaris subsp. fallax,840,31.71853,-103.03201,PET0768
+PET_48,fal_TX,Helianthus petiolaris subsp. fallax,840,31.71853,-103.03201,PET0769
+PET_48,fal_TX,Helianthus petiolaris subsp. fallax,840,31.71853,-103.03201,PET0774N
+PET_48,fal_TX,Helianthus petiolaris subsp. fallax,840,31.71853,-103.03201,PET0775
+PET_48,fal_TX,Helianthus petiolaris subsp. fallax,840,31.71853,-103.03201,PET0776
+PET_48,fal_TX,Helianthus petiolaris subsp. fallax,840,31.71853,-103.03201,PET0770
+PET_48,fal_TX,Helianthus petiolaris subsp. fallax,840,31.71853,-103.03201,PET0777
+PET_49,fal_TX,Helianthus petiolaris subsp. fallax,925,31.95354,-102.97878,PET0780N
+PET_49,fal_TX,Helianthus petiolaris subsp. fallax,925,31.95354,-102.97878,PET0781
+PET_49,fal_TX,Helianthus petiolaris subsp. fallax,925,31.95354,-102.97878,PET0783
+PET_49,fal_TX,Helianthus petiolaris subsp. fallax,925,31.95354,-102.97878,PET0778
+PET_49,fal_TX,Helianthus petiolaris subsp. fallax,925,31.95354,-102.97878,PET0779N
+PET_49,fal_TX,Helianthus petiolaris subsp. fallax,925,31.95354,-102.97878,PET0786
+PET_49,fal_TX,Helianthus petiolaris subsp. fallax,925,31.95354,-102.97878,PET0787
+PET_49,fal_TX,Helianthus petiolaris subsp. fallax,925,31.95354,-102.97878,PET0784
+PET_49,fal_TX,Helianthus petiolaris subsp. fallax,925,31.95354,-102.97878,PET0785
+PET_50,fal_TX,Helianthus petiolaris subsp. fallax,905,32.50941,-102.04615,PET0796
+PET_50,fal_TX,Helianthus petiolaris subsp. fallax,905,32.50941,-102.04615,PET0797
+PET_50,fal_TX,Helianthus petiolaris subsp. fallax,905,32.50941,-102.04615,PET0789
+PET_50,fal_TX,Helianthus petiolaris subsp. fallax,905,32.50941,-102.04615,PET0790
+PET_50,fal_TX,Helianthus petiolaris subsp. fallax,905,32.50941,-102.04615,PET0791
+PET_50,fal_TX,Helianthus petiolaris subsp. fallax,905,32.50941,-102.04615,PET0792
+PET_50,fal_TX,Helianthus petiolaris subsp. fallax,905,32.50941,-102.04615,PET0793
+PET_50,fal_TX,Helianthus petiolaris subsp. fallax,905,32.50941,-102.04615,PET0794
+PET_50,fal_TX,Helianthus petiolaris subsp. fallax,905,32.50941,-102.04615,PET0795
